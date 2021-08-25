@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "WordCloud", "WordCloud.pyproj", "{939D5B85-2B92-4312-A9E6-F41D0AA99485}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{939D5B85-2B92-4312-A9E6-F41D0AA99485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{939D5B85-2B92-4312-A9E6-F41D0AA99485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDADA605-2929-49AD-9D80-631ECBAAB3D0}
+	EndGlobalSection
+EndGlobal
